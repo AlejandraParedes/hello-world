@@ -1,2 +1,5 @@
 # hello-world
-this is my first repository 
+
+Hi Humans!
+
+My name is Rover. I like galaxy purple and pizza. 
